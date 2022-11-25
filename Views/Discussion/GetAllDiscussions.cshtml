@@ -1,0 +1,12 @@
+@model IEnumerable<Community_Application.Models.Discussion>
+<div>
+    <h1>Discussion Forum</h1>
+</div>
+
+
+@foreach (var item in Model)
+{
+    <div>  
+        <h6>@Html.DisplayFor(x => item.Subject) : @Html.DisplayFor(x => item.Creator) <a asp-action="Details" asp-route-id=@item.Id>View</a></h6>
+    </div>
+}

@@ -1,0 +1,42 @@
+C:\Users\ADESANYA\Desktop\Community Application\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ADESANYA\Desktop\Community Application\bin\Debug\net5.0\appsettings.json
+C:\Users\ADESANYA\Desktop\Community Application\bin\Debug\net5.0\Community Application.exe
+C:\Users\ADESANYA\Desktop\Community Application\bin\Debug\net5.0\Community Application.deps.json
+C:\Users\ADESANYA\Desktop\Community Application\bin\Debug\net5.0\Community Application.runtimeconfig.json
+C:\Users\ADESANYA\Desktop\Community Application\bin\Debug\net5.0\Community Application.runtimeconfig.dev.json
+C:\Users\ADESANYA\Desktop\Community Application\bin\Debug\net5.0\Community Application.dll
+C:\Users\ADESANYA\Desktop\Community Application\bin\Debug\net5.0\ref\Community Application.dll
+C:\Users\ADESANYA\Desktop\Community Application\bin\Debug\net5.0\Community Application.pdb
+C:\Users\ADESANYA\Desktop\Community Application\bin\Debug\net5.0\Community Application.Views.dll
+C:\Users\ADESANYA\Desktop\Community Application\bin\Debug\net5.0\Community Application.Views.pdb
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\Community Application.csproj.AssemblyReference.cache
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\Community Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\Community Application.AssemblyInfoInputs.cache
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\Community Application.AssemblyInfo.cs
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\Community Application.csproj.CoreCompileInputs.cache
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\Community Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\Community Application.RazorAssemblyInfo.cache
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\Community Application.RazorAssemblyInfo.cs
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\staticwebassets\Community Application.StaticWebAssets.Manifest.cache
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\staticwebassets\Community Application.StaticWebAssets.xml
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\scopedcss\bundle\Community Application.styles.css
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\Community Application.TagHelpers.input.cache
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\Community Application.TagHelpers.output.cache
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\Community Application.RazorCoreGenerate.cache
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\Community Application.RazorTargetAssemblyInfo.cache
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\Community Application.RazorTargetAssemblyInfo.cs
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\Community Application.Views.pdb
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\Community Application.dll
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\ref\Community Application.dll
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\Community Application.pdb
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\Community Application.genruntimeconfig.cache
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\Community Application.csproj.CopyComplete
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\Razor\Views\Discussion\GetAllDiscussions.cshtml.g.cs
+C:\Users\ADESANYA\Desktop\Community Application\obj\Debug\net5.0\Razor\Views\Discussion\Details.cshtml.g.cs

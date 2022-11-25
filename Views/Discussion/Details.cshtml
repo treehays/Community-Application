@@ -1,0 +1,27 @@
+@model Community_Application.Models.Discussion
+
+<div>
+    <h6>Post</h6>
+    
+    <hr/>
+   <dl>
+         <dt>
+            <h4>@Html.DisplayNameFor(model => model.Creator) </h4>
+        </dt>
+         <dd>
+            <h4>@Html.DisplayFor(model => model.Creator) </h4>
+        </dd>
+        <dt>
+            <h4>@Html.DisplayNameFor(model => model.Subject) </h4>
+        </dt>
+          <dd>
+            <h4>@Html.DisplayFor(model => model.Subject) </h4>
+        </dd>
+         <dt>
+            <h4>@Html.DisplayNameFor(model => model.TimeCreated) </h4>
+        </dt>
+          <dd>
+            <h4>@Html.DisplayFor(model => model.TimeCreated) </h4>
+        </dd>
+   </dl>
+</div>
